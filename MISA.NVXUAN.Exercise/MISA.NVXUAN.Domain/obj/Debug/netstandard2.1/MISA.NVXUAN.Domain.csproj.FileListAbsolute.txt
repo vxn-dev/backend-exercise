@@ -1,0 +1,12 @@
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\bin\Debug\netstandard2.1\MISA.NVXUAN.Domain.deps.json
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\bin\Debug\netstandard2.1\MISA.NVXUAN.Domain.dll
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\bin\Debug\netstandard2.1\MISA.NVXUAN.Domain.pdb
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\bin\Debug\netstandard2.1\MISA.NVXUAN.DomainShared.dll
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\bin\Debug\netstandard2.1\MISA.NVXUAN.DomainShared.pdb
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.csprojAssemblyReference.cache
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.AssemblyInfoInputs.cache
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.AssemblyInfo.cs
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.csproj.CopyComplete
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.dll
+D:\Learning\MISA\backend-exercise\MISA.NVXUAN.Exercise\MISA.NVXUAN.Domain\obj\Debug\netstandard2.1\MISA.NVXUAN.Domain.pdb

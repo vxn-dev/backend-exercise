@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.NVXUAN.Domain\MISA.NVXUAN.Domain.csproj" />
+    <ProjectReference Include="..\MISA.NVXUAN.Library\MISA.NVXUAN.Library.csproj" />
+  </ItemGroup>
+
+</Project>

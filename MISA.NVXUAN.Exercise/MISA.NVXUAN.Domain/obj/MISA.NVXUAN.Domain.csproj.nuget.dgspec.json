@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.Domain\\MISA.NVXUAN.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\MISA.NVXUAN.DomainShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\MISA.NVXUAN.DomainShared.csproj",
+        "projectName": "MISA.NVXUAN.DomainShared",
+        "projectPath": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\MISA.NVXUAN.DomainShared.csproj",
+        "packagesPath": "C:\\Users\\OTAX\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OTAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.Domain\\MISA.NVXUAN.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.Domain\\MISA.NVXUAN.Domain.csproj",
+        "projectName": "MISA.NVXUAN.Domain",
+        "projectPath": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.Domain\\MISA.NVXUAN.Domain.csproj",
+        "packagesPath": "C:\\Users\\OTAX\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OTAX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\MISA.NVXUAN.DomainShared.csproj": {
+                "projectPath": "D:\\Learning\\MISA\\backend-exercise\\MISA.NVXUAN.Exercise\\MISA.NVXUAN.DomainShared\\MISA.NVXUAN.DomainShared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.DomainShared/obj
+/MISA.NVXUAN.Exercise/.vs/MISA.NVXUAN.Exercise
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Application/obj
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.BackendApi/obj
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.BackendApi/Properties
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Contracts/obj
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Data/obj
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Library/obj
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.BackendApi/bin/Debug/netcoreapp3.1
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Contracts/bin/Debug/netstandard2.1
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Domain/bin/Debug/netstandard2.1
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.DomainShared/bin/Debug/netstandard2.1
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Library/bin/Debug/netstandard2.1
+/MISA.NVXUAN.Exercise/MISA.NVXUAN.Application/bin/Debug/netstandard2.1
